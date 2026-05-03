@@ -1,0 +1,24 @@
+{
+  "keybindings": {
+    "shoot": "space",
+    "rotate_left": "a",
+    "rotate_right": "d",
+    "move_left": "arrow_left",
+    "move_right": "arrow_right",
+    "move_up": "arrow_up",
+    "move_down": "arrow_down",
+    "pause": "escape"
+  },
+  "audio": {
+    "master_volume": 1.0,
+    "sfx_volume": 1.0,
+    "music_volume": 0.7
+  },
+  "graphics": {
+    "fullscreen": true,
+    "resolution": [
+      1920,
+      1080
+    ]
+  }
+}

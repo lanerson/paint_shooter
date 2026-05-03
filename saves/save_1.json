@@ -1,0 +1,19 @@
+{
+  "player_name": "Jogador",
+  "current_level": 4,
+  "levels_progress": {
+    "1": {
+      "stars": 3,
+      "best_time": 9.99
+    },
+    "2": {
+      "stars": 3,
+      "best_time": 7.19
+    },
+    "3": {
+      "stars": 3,
+      "best_time": 1.29
+    }
+  },
+  "total_stars": 9
+}
